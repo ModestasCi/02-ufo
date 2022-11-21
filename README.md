@@ -12,8 +12,8 @@ Simple design, learning HTML and CSS
 
 siandien reikia padaryti
 - [x] reikia
-- [] padaryti
-- [] sita
-- [] darba
+- [ ] padaryti
+- [ ] sita
+- [ ] darba
 
 Daugiau informacijos [wikipedijoje] (https://lt.wikipedia.org/wiki/Pagrindinis_puslapis).
