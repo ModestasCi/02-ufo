@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://modestasci.github.io/02-ufo/
+Site published at: https://modestasci.github.io/02ufo/
 
 Design: [UFO](./img/design.png)
 
@@ -46,7 +46,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/modestasci/02-ufo.git
+    git clone https://github.com/modestasci/02ufo.git
     ```
 2. Install NPM packages
     ```sh
