@@ -1,3 +1,8 @@
+:root {
+    --main-font-color: white;
+}
+
+
 body {
     background-color: #4E78E5;
 }
@@ -16,7 +21,7 @@ body {
 }
 
 .main-title {
-    color: white;
+    color: var(--main-font-color);
     font-size: 80px;
     margin: 0;
     font-family: fantasy;
@@ -24,25 +29,25 @@ body {
 }
 
 .description {
-    color: white;
+    color: var(--main-font-color);
     text-transform: uppercase;
     margin: 0;
     font-size: 36px;
-    margin-bottom: 20px;
+    margin-bottom: 0.56em;
     font-family: fantasy;
 }
 
 .btn {
     display: inline-block;
-    color: white;
+    color: var(--main-font-color);
     text-decoration: none;
-    font-size: 17px;
+    font-size: 18px;
     font-family: Arial;
-    border: 3px solid white;
-    padding: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
-    border-radius: 21px;
+    border: 0.17em solid var(--main-font-color);
+    padding: 0.56em;
+    padding-left: 1.67em;
+    padding-right: 1.67em;
+    border-radius: 1.17em;
 }
 
 .right-column {
