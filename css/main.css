@@ -1,56 +1,55 @@
 :root {
-    --main-font-color: white;
+	--main-font-color: white;
 }
 
-
 body {
-    background-color: #4E78E5;
+	background-color: #4e78e5;
 }
 
 .main-content {
-    display: inline-block;
-    width: 50%;
-    margin-top:170px;
-    margin-left: 25%;
+	display: inline-block;
+	width: 50%;
+	margin-top: 170px;
+	margin-left: 25%;
 }
 
 .left-column {
-    width: 35%;
-    float: left;
-    margin-top: 100px;
+	width: 35%;
+	float: left;
+	margin-top: 100px;
 }
 
 .main-title {
-    color: var(--main-font-color);
-    font-size: 80px;
-    margin: 0;
-    font-family: fantasy;
-    font-weight: normal;
+	color: var(--main-font-color);
+	font-size: 80px;
+	margin: 0;
+	font-family: fantasy;
+	font-weight: normal;
 }
 
 .description {
-    color: var(--main-font-color);
-    text-transform: uppercase;
-    margin: 0;
-    font-size: 36px;
-    margin-bottom: 0.56em;
-    font-family: fantasy;
+	color: var(--main-font-color);
+	text-transform: uppercase;
+	margin: 0;
+	font-size: 36px;
+	margin-bottom: 0.56em;
+	font-family: fantasy;
 }
 
 .btn {
-    display: inline-block;
-    color: var(--main-font-color);
-    text-decoration: none;
-    font-size: 18px;
-    font-family: Arial;
-    border: 0.17em solid var(--main-font-color);
-    padding: 0.56em;
-    padding-left: 1.67em;
-    padding-right: 1.67em;
-    border-radius: 1.17em;
+	color: var(--main-font-color);
+	text-decoration: none;
+	font-size: 18px;
+	font-family: Arial;
+	border: 0.17em solid var(--main-font-color);
+	padding: 0.56em;
+	display: inline-block;
+	padding-left: 1.67em;
+	padding-right: 1.67em;
+	border-radius: 1.17em;
 }
 
 .right-column {
-    width: 60%;
-    float: right;
+	width: 60%;
+	float: right;
 }
